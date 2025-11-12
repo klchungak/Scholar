@@ -1,0 +1,4 @@
+repository "Scholar@tj_rcinust@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
